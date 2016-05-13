@@ -13,7 +13,8 @@ t m\
 ai\
 n(
 ) {
-puts("Hello world")
+pu\
+ts("Hello world")
 ;
 retu\
 rn 0;
